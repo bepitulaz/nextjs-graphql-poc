@@ -15,3 +15,7 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Live demo
+
+To see the live demo of the application, you can visit [https://nextjs-graphql-poc.vercel.app/](https://nextjs-graphql-poc.vercel.app/).
